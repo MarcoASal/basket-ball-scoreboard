@@ -1,6 +1,3 @@
-let addScoreOne = document.getElementById("add-one")
-let addScoreTwo = document.getElementById("add-two")
-let addScoreThree = document.getElementById("add-three")
 let homeScoreEl = document.getElementById("home-score")
 let guestScoreEl = document.getElementById("guest-score")
 let homeScore = 0
